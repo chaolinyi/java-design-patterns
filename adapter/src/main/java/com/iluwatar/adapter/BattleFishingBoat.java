@@ -42,6 +42,7 @@ public class BattleFishingBoat implements BattleShip {
   @Override
   public void fire() {
     System.out.println("fire!");
+    System.out.println("defense!");
   }
 
   @Override
